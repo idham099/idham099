@@ -1,6 +1,6 @@
 # <strong>Hi there :wave: , I'm Ainul Idham!</strong>
 <p>
-    - :keyboard: I’m currently learning Software Quality Assurance . </br>
+    - :keyboard: I’m currently Software Quality Assurance. </br>
     - :game_die: Software Testing are part of me. </br>
     
 ## 🌐 Socials:
