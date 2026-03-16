@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ainul Idham<br>QA Automation Engineer with 2+ years of experience in banking & payment systems.<br>I specialize in building automation frameworks for UI, API, and Performance testing.<br><br>🔧 What I Do<br>🎭 UI Automation <br>🔌 API Automation <br>⚡ Performance Testing <br>🔁 CI/CD <br><br><br>🎯 Currently Looking For<br>Open to QA Automation Engineer roles — remote or on-site.<br>Passionate about building reliable test frameworks that ship quality faster.<br><br><br><br>
+👋 Hi, I'm Ainul Idham<br>QA Automation Engineer with 2+ years of experience in banking & payment systems. I specialize in building automation frameworks for UI, API, and Performance testing.<br><br>🔧 What I Do<br>🎭 UI Automation <br>🔌 API Automation <br>⚡ Performance Testing <br>🔁 CI/CD <br><br><br>🎯 Currently Looking For<br>Open to QA Automation Engineer roles — remote or on-site.<br>Passionate about building reliable test frameworks that ship quality faster.<br><br><br><br>
 
 
 ## 🌐 Socials:
