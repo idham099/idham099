@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ainul Idham<br>QA Automation Engineer with 2+ years of experience in banking & payment systems.<br>I specialize in building automation frameworks.<br>🎯 Currently Looking For<br>Open to QA Automation Engineer roles — remote or on-site.<br>Passionate about building reliable test frameworks that ship quality faster.<br><br>
+👋 Hi, I'm Ainul Idham<br>QA Automation Engineer with 2+ years of experience in banking & payment systems.<br>I specialize in building automation frameworks.<br><br>🎯 Currently Looking For<br>Open to QA Automation Engineer roles — remote or on-site.<br>Passionate about building reliable test frameworks that ship quality faster.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ainul.idham/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ainulidham/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@idhamforge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ainul.idham.sttpln@gmail.com) 
