@@ -1,7 +1,6 @@
 # <strong>Hi there :wave: , I'm Ainul Idham!</strong>
 <p>
-    - :keyboard: I’m currently Software Quality Assurance. </br>
-    - :speech_balloon: I specialize in building automation frameworks for your application. <br>
+    - :keyboard: I’m currently Software Quality Assurance Automation. </br>
     - :game_die: Passionate about software quality and testing. </br>
     
 ## 🌐 Socials:
